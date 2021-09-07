@@ -1,6 +1,6 @@
 # Description
 ## This is a multiple databases poc
-### In this poc, three databases are used 1 for user,2 and 3 for the apps
+### In this poc, three databases are used 1 for user, 2 and 3 for the apps
 for using this project firstly clone this project
 ```bash
 git clone https://github.com/ongraphpythondev/multipledatabase
