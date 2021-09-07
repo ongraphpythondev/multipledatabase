@@ -14,7 +14,7 @@ python manage.py migrate --database=db3
 ```
 for creating admin
 ```bash
-python msnsge.py createsuperuser --database=db1
+python manage.py createsuperuser --database=db1
 ```
 After configuring the databases now you have to run server
 ```bash
